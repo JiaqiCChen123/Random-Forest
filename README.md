@@ -13,5 +13,5 @@ This file contains basic fuctions to build decision trees and simple random fore
 
 * rf.py 
 
-This file specifies random forest regressor and random forest classifier's detailed functions.
+This file specifies random forest regressor and random forest classifier's detailed functions which inherit from simple random forest structures from tree.py.
 
