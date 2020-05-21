@@ -8,6 +8,10 @@ The random forest model contains basic features (like n_estimators, min_samples_
 
 There are two python files:
 * tree.py 
+
 This file contains basic fuctions to build decision trees and simple random forest functions.
+
 * rf.py 
+
 This file specifies random forest regressor and random forest classifier's detailed functions.
+
